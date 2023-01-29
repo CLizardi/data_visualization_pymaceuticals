@@ -1,6 +1,8 @@
-## Data Vsualization for Pymaceuticals, INC
+# Data Vsualization for Pymaceuticals, INC
 
-Analysis
+This code is analyzing some data about mice. It's using a program called Pandas to read in information from two different files and combine them into one big set of data. It's looking at a specific drug called "Capomulin" and grouping the data by a specific number called "Mouse ID." The code is figuring out the average weight of the mice and the average size of their tumors, and then making a graph to show these numbers. It's also calculating how related the weight and tumor size are and drawing a line on the graph to show that relationship. Finally, it's showing the graph with some extra information on it.
+
+# Analysis
 249 mice conducted by Pymaceuticals revealed some insights. The sex distribution of the mice were rougly equal, with 50% being male and 50% being female. Additionally, 9 different drug regimens were tested, including a placebo. Out of all these drug regimens, Ramicane appeared to be the most effective at reducing tumor growth, as it had the lowest mean, median, variance, and standard deviation among the tested drugs. Capomulin was also effective, and both drugs had the highest number of timepoints. The correlation and regression analysis revealed a strong positive relationship between tumor volume and mouse weight, with a correlation of 0.84. Overall, Ramicane and Capmulin were found to be the most effective drugs in reducing tumor growth among the tested regimens.
 
 ![DALL·E 2023-01-29 14 05 36 - pharmacy mice lab trial prescription](https://user-images.githubusercontent.com/52866379/215350328-7c660918-31c3-4a81-9d0f-93790a0a4ff3.png)

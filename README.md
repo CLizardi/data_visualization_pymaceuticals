@@ -1,4 +1,4 @@
-# Data Vsualization for Pymaceuticals, INC
+# Data Visualization for Pymaceuticals, INC
 
 This code is analyzing some data about mice. It's using a program called Pandas to read in information from two different files and combine them into one big set of data. It's looking at a specific drug called "Capomulin" and grouping the data by a specific number called "Mouse ID." The code is figuring out the average weight of the mice and the average size of their tumors, and then making a graph to show these numbers. It's also calculating how related the weight and tumor size are and drawing a line on the graph to show that relationship. Finally, it's showing the graph with some extra information on it.
 

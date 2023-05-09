@@ -10,12 +10,12 @@ As a senior data analyst for Pymaceuticals, Inc., I was tasked with analyzing a 
 # What I Did
 In this project, I performed the following tasks:
 
-Prepared and cleaned the dataset by merging mouse_metadata and study_results DataFrames and removing duplicate data
-Generated summary statistics that included mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen
-Created bar charts and pie charts to visualize the total number of rows and distribution of female and male mice in the study
-Calculated quartiles, found outliers, and created a box plot to visualize the distribution of the final tumor volume for all the mice in each treatment group
-Created a line plot and a scatter plot to visualize the tumor volume versus time point for a single mouse treated with Capomulin and mouse weight versus average observed tumor volume for the entire Capomulin treatment regimen, respectively
-Calculated correlation and regression to analyze the relationship between mouse weight and average observed tumor volume for the entire Capomulin treatment regimen.
+* Prepared and cleaned the dataset by merging mouse_metadata and study_results DataFrames and removing duplicate data
+* Generated summary statistics that included mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen
+* Created bar charts and pie charts to visualize the total number of rows and distribution of female and male mice in the study
+* Calculated quartiles, found outliers, and created a box plot to visualize the distribution of the final tumor volume for all the mice in each treatment group
+* Created a line plot and a scatter plot to visualize the tumor volume versus time point for a single mouse treated with Capomulin and mouse weight versus average observed tumor volume for the entire Capomulin treatment regimen, respectively
+* Calculated correlation and regression to analyze the relationship between mouse weight and average observed tumor volume for the entire Capomulin treatment regimen.
 
 # Tools Used
 The following tools were used in this project:

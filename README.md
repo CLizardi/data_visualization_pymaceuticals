@@ -1,4 +1,5 @@
 # Data Visualization with PyMaceuticals
+![myriam-zilles-KltoLK6Mk-g-unsplash](https://user-images.githubusercontent.com/52866379/237008718-dd782a7a-6ab6-4013-adba-052cf3df8a37.jpg)
 
 # Introduction
 Welcome to the Data Visualization with PyMaceuticals project! In this project, I utilized Matplotlib to visualize and analyze a real-world dataset for a pharmaceutical company that specializes in anti-cancer medications.
@@ -39,5 +40,3 @@ Through this project, I gained experience in the following:
 
 # Conclusion
 In conclusion, the Data Visualization with PyMaceuticals project allowed me to gain hands-on experience in analyzing and visualizing real-world datasets using Matplotlib. I was able to generate summary statistics, create bar and pie charts, identify outliers, and create box plots to visualize the distribution of the final tumor volume for each treatment group. I also gained experience in creating line and scatter plots and analyzing the relationship between variables using correlation and regression. Overall, this project helped me develop my skills in data visualization, analysis, and collaboration.
-
-![DALL·E 2023-01-29 14 05 36 - pharmacy mice lab trial prescription](https://user-images.githubusercontent.com/52866379/215350328-7c660918-31c3-4a81-9d0f-93790a0a4ff3.png)

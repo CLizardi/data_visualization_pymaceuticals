@@ -1,4 +1,4 @@
-# Data Visualization with PyMaceuticals
+# Data Visualization with PyMaceuticals1
 ![myriam-zilles-KltoLK6Mk-g-unsplash](https://user-images.githubusercontent.com/52866379/237008718-dd782a7a-6ab6-4013-adba-052cf3df8a37.jpg)
 
 # Introduction
